@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ivan.
-#### Welcome to my page: [http://ivans-page.netlify.app](http://ivans-page.netlify.app/)
+#### Welcome to my page: [http://ivans-page.netlify.app/](http://ivans-page.netlify.app)
 
 <!--
 **IvanZyf666/IvanZyf666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
