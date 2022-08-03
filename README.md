@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ivan.
-- Work : Web Front-end 🌈 | C++/C# Development ✨
-- Study : Web Full-Stack ⚡ | Deep Learning 🔥
-- Interests : Sax 🎷 | Swim 🏊‍♂️ | Climb 🧗‍♂️ | Cycle 🚴‍♂️
+####Work : Web Front-end 🌈 | C++/C# Development ✨
+####Study : Web Full-Stack ⚡ | Deep Learning 🔥
+####Interests : Sax 🎷 | Swim 🏊‍♂️ | Climb 🧗‍♂️ | Cycle 🚴‍♂️
 #### Welcome to my portfolio page: [http://ivans-page.netlify.app](http://ivans-page.netlify.app)
 
 <!--
