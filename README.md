@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ivan.
+### Hi there 👋 I'm Ivan
 ![](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/-Django-yellow?logo=django&logoColor=white)
 
 
-####  • Co-op Software Developer at [SeisWare](https://seisware.com/) ⭐
+####  • Co-op Software Developer at [SeisWare](https://seisware.com/) 👨‍💻
 ####  • Got First Place in Alberta Collegiate Programming Contest (ACPC) 2021 🏆
 ####  • Work : Web Front-end 🌈 | C++/C# Development ✨
 ####  • Study : Web Full-Stack ⚡ | Cloud Computing 🔥
