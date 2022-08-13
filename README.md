@@ -1,20 +1,27 @@
 ### Hi there 👋 I'm Ivan.
+![](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+
+![](https://img.shields.io/badge/-React.js-orange?logo=react&logoColor=white)
+![](https://img.shields.io/badge/-Bootstrap-green?logo=Bootstrap&logoColor=white)
+![](https://img.shields.io/badge/-Node.js-red?logo=nodedotjs&logoColor=white)
+
+![](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![](https://img.shields.io/badge/-Redux-yellow?logo=redux&logoColor=white)
+![](https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white)
+
+![](https://img.shields.io/badge/-C++-brown?logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Django-yellow?logo=django&logoColor=white)
+
+
+####  • Co-op Software Developer at [SeisWare](https://seisware.com/) ⭐
+####  • Got First Place in Alberta Collegiate Programming Contest (ACPC) 2021 🏆
 ####  • Work : Web Front-end 🌈 | C++/C# Development ✨
-####  • Study : Web Full-Stack ⚡ | Deep Learning 🔥
-####  • Interests : Sax 🎷 | Swim 🏊‍♂️ | Climb 🧗‍♂️ | Cycle 🚴‍♂️
+####  • Study : Web Full-Stack ⚡ | Cloud Computing 🔥
+####  • Hobbies : Sax 🎷 | Swim 🏊‍♂️ | Climb 🧗‍♂️ | Cycle 🚴‍♂️
+
 #### Welcome to my portfolio page: [http://ivans-page.netlify.app](http://ivans-page.netlify.app)
 
-<!--
-**IvanZyf666/IvanZyf666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanZyf666&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="IvanZyf666" /></p>
