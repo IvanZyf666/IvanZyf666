@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/-Django-yellow?logo=django&logoColor=white)
 
 
-####  • Co-op Software Developer at [SeisWare](https://seisware.com/) 👨‍💻
+####  • Former Co-op Software Developer at [SeisWare](https://seisware.com/) 👨‍💻
 ####  • Got First Place in Alberta Collegiate Programming Contest (ACPC) 2021 🏆
 ####  • Work : Web Full-Stack 🌈 | C++/C# Development ✨
 ####  • Hobbies : Sax 🎷 | Swim 🏊‍♂️ | Climb 🧗‍♂️ | Cycle 🚴‍♂️
