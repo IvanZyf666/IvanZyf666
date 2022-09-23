@@ -23,4 +23,4 @@
 
 #### Welcome to my portfolio page: [http://ivans-page.netlify.app](http://ivans-page.netlify.app)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanZyf666&show_icons=true&theme=aura&hide_border=true&locale=en" alt="IvanZyf666" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanZyf666&PAT_1=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&show_icons=true&theme=aura&hide_border=true&locale=en" alt="IvanZyf666" /></p>
