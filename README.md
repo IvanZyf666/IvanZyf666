@@ -16,9 +16,9 @@
 ![](https://img.shields.io/badge/-Django-yellow?logo=django&logoColor=white)
 
 
-####  • Former Co-op Software Developer at [SeisWare](https://seisware.com/) 👨‍💻
+####  • Software Engineer Co-op at [Intuit](https://www.intuit.com/ca/) 👨‍💻
 ####  • Got First Place in Alberta Collegiate Programming Contest (ACPC) 2021 🏆
-####  • Work : Web Full-Stack 🌈 | C++/C# Development ✨
+####  • Work : Web Full-Stack ✨ | C++/C# Development 🌈
 ####  • Hobbies : Sax 🎷 | Swim 🏊‍♂️ | Climb 🧗‍♂️ | Cycle 🚴‍♂️
 
 #### Welcome to my portfolio page: [http://ivans-page.netlify.app](http://ivans-page.netlify.app)
