@@ -3,9 +3,9 @@
 ![](https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
-![](https://img.shields.io/badge/-Redux-yellow?logo=redux&logoColor=white)
-![](https://img.shields.io/badge/-Bootstrap-green?logo=Bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-red?logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/-Bootstrap-green?logo=Bootstrap&logoColor=white)
+![](https://img.shields.io/badge/-Redux-yellow?logo=redux&logoColor=white)
 
 ![](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
