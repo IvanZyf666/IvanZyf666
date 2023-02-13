@@ -7,8 +7,8 @@
 ![](https://img.shields.io/badge/-Redux-yellow?logo=redux&logoColor=white)
 
 ![](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-C++-brown?logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Django-yellow?logo=django&logoColor=white)
