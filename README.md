@@ -16,7 +16,7 @@
 
 ####  • SW Engineer at [Intuit](https://www.intuit.com/ca/) 👨‍💻
 ####  • Got First Place in Alberta Collegiate Programming Contest (ACPC) 2021 🏆
-####  • Work : Web Full-Stack ✨ | C++/C# Development 🌈
+####  • Work : Web Full-Stack ✨ | Front-end Development 🌈
 ####  • Hobbies : Sax 🎷 | Swim 🏊‍♂️ | Climb 🧗‍♂️ | Cycle 🚴‍♂️
 
 #### Welcome to my portfolio: [http://ivans-page.netlify.app](http://ivans-page.netlify.app)
