@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/-Django-yellow?logo=django&logoColor=white)
 
 
-####  • SW Engineer at [Intuit](https://www.intuit.com/ca/) 👨‍💻
+####  • Software Engineer at [Intuit](https://www.intuit.com/ca/) 👨‍💻
 ####  • Got First Place in Alberta Collegiate Programming Contest (ACPC) 2021 🏆
 ####  • Work : Web Full-Stack ✨ | Front-end Development 🌈
 ####  • Hobbies : Sax 🎷 | Swim 🏊‍♂️ | Climb 🧗‍♂️ | Cycle 🚴‍♂️
