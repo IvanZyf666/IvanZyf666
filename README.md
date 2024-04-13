@@ -14,11 +14,11 @@
 ![](https://img.shields.io/badge/-Django-yellow?logo=django&logoColor=white)
 
 
-####  • Software Engineer at [Intuit](https://www.intuit.com/ca/) 👨‍💻
+####  • Software Engineer II at [Microsoft](https://www.microsoft.com/) 👨‍💻
 ####  • Got First Place in Alberta Collegiate Programming Contest (ACPC) 2021 🏆
 ####  • Work : Web Full-Stack ✨ | Front-end Development 🌈
 ####  • Hobbies : Sax 🎷 | Swim 🏊‍♂️ | Climb 🧗‍♂️ | Cycle 🚴‍♂️
 
 #### Welcome to my portfolio: [http://ivans-page.netlify.app](http://ivans-page.netlify.app)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanZyf666&PAT_1=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&show_icons=true&theme=aura&hide_border=true&count_private=true&locale=en" alt="IvanZyf666" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IvanZyf666&PAT_1=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&show_icons=true&theme=aura&hide_border=true&count_private=true&locale=en&include_all_commits=true" alt="IvanZyf666" /></p>
